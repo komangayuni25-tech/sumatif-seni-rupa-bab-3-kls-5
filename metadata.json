@@ -1,0 +1,8 @@
+{
+  "name": "Tes Sumatif seni rupa kelas 5 bab 3",
+  "description": "Aplikasi Asesmen Sumatif Seni Rupa Kelas 5 SD Negeri 3 Loloan Timur: Menggambar Objek dengan Prinsip Ritme, Proporsi, dan Komposisi dengan 45 butir soal (40 PG & 5 PGK Kategori bergambar), matriks respon butir interaktif, kisi-kisi resmi, dan ekspor dokumen dinas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
